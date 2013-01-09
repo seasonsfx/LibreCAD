@@ -12,6 +12,8 @@ UI_DIR = $${GENERATED_DIR}/ui
 UI_HEADERS_DIR = $${GENERATED_DIR}/ui
 UI_SOURCES_DIR = $${GENERATED_DIR}/ui
 
+MUPARSER_DIR = D:\Dev\muparser\muparser_v2_2_3
+BOOST_DIR = D:\Dev\boost\boost_1_52_0
 
 # Copy command
 win32 {
